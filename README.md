@@ -1,2 +1,2 @@
 # my-portfolio
-My first personal Potrfolio
+My first personal potrfolio
